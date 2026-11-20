@@ -1,5 +1,4 @@
-
-Aplicação web full-stack para cadastro e gerenciamento de produtos, desenvolvida com React, Node.js e SQL Server.
+ # Projeto Sells & Tells
 
 ## Links do Projeto
 
