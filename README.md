@@ -5,6 +5,11 @@
 * **Protótipo no Figma:** [[Acessar Figma](https://www.figma.com/seu-link-aqui)](https://www.figma.com/make/vcF9xv49TbsRO1UEw7gqvN/Loja-Virtual-Sells-and-Tells?t=dTRsUmrzhF6axzDu-20&fullscreen=1&preview-route=%2F%23historia)
 * **Relatório Técnico (SBC):** [SBC-TrabalhoPratico.pdf](https://github.com/user-attachments/files/35189150/SBC-TrabalhoPratico.pdf)
 
+## Video-Pitch 
+Disponível no youtube: 
+https://youtu.be/d6YIH7pf1FI
+
+
 ## Tecnologias
 
 * **Front-end:** React, Tailwind CSS, Lucide React
